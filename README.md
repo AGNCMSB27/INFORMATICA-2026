@@ -1,4 +1,4 @@
 # INFORMATICA-2026
-Códigos y proyectos desarrollados durante el 2026 en la clase de Tecnología e Informática.
+Códigos, actividades y proyectos desarrollados durante el 2026 en la clase de Tecnología e Informática.
 
-Creado por Alejandro Giraldo Nova el 5 de mayo de 2026.
+Repositorio creado por Alejandro Giraldo Nova el 5 de mayo de 2026.
