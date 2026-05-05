@@ -1,0 +1,2 @@
+# INFORMATICA-2026
+Códigos y proyectos desarrollados durante el 2026 en la clase de Tecnología e Informática.
